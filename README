@@ -1,0 +1,32 @@
+
+Minfrit v1 is a utility that helps to find club  .
+Features
+
+    The user can search for clubs by age, category and location
+    The user can register in the clubs of their interest
+    The user can leave the previously registered club
+    
+    
+    Secure admin
+    The administrator manages the clubs
+    The administrator manages the categories
+    The administrator manages users and their records
+    
+    
+    
+
+Architecture
+
+Php 7.4
+Mysql 15.1
+HTML 5.0
+
+
+Methodology
+
+OPC Determines the menu option to be used
+MOD Determine editing and viewing options
+CN Determine the sections to replace
+FN Determine connections to the database
+JS Determine the events the user needs
+
